@@ -16,7 +16,3 @@ The goal is to automate ingredient verification, helping users and manufacturers
 - **Performance Metrics**: Evaluated using Accuracy, Precision, Recall, and F1 Score, achieving 98% accuracy in experiments.
 - **Competition Recognition**: Awarded Silver Medal at IGIIDeation 2025, with the abstract published in the official proceedings.
 
-## Getting Started
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/HalalCheck.git
